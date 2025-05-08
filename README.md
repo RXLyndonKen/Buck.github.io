@@ -40,9 +40,9 @@
 
 ## 📫 聯絡我 (Contact)
 
-[![GitHub followers](https://img.shields.io/github/followers/RXLyndonKen?label=Follow&style=social)](https://github.com/RXLyndonKen) 
-[![Instagram](https://img.shields.io/badge/Instagram-buck_412-E4405F?logo=instagram&logoColor=white)](https://instagram.com/buck_412)  
-[![Line](https://img.shields.io/badge/Line-林帛彥-00C300?logo=line&logoColor=white)](https://line.me/R/ti/p/%40kenfromthefrog)  
+[![GitHub followers](https://img.shields.io/github/followers/RXLyndonKen?label=Follow&style=social)](https://github.com/RXLyndonKen)
+[![Instagram](https://img.shields.io/badge/Instagram-buck_412-E4405F?logo=instagram&logoColor=white)](https://instagram.com/buck_412)
+[![Line](https://img.shields.io/badge/Line-林帛彥-00C300?logo=line&logoColor=white)](https://line.me/R/ti/p/%40kenfromthefrog)
 [![Discord](https://img.shields.io/badge/Discord-RXLyndonKen%233751-7289DA?logo=discord&logoColor=white)](https://discord.com/users/rxlyndonken#3751)
 
 ---
