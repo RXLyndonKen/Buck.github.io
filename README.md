@@ -1,6 +1,6 @@
 <!-- 尺寸可自行調整 -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="assets/Banner.JPG" alt="Banner" width="100%" />
 </p>
 <h1 align="center">歡迎來到RXLyndonKen 的 GitHub 👋</h1>
 
