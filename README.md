@@ -1,2 +1,2 @@
-# [Buck.github.io](https://github.com/RXLyndonKen)
+# RXLyndonKen
 這是Buck的Github個人空間。
