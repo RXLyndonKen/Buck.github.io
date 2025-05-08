@@ -1,0 +1,10 @@
+/* 預設所有文字用 Times New Roman */
+body {
+  font-family: "Times New Roman", serif;
+}
+
+/* 針對中文語系 (lang="zh-TW" 或 lang="zh-Hant") 的元素改用標楷體 */
+:lang(zh-TW),
+:lang(zh-Hant) {
+  font-family: "標楷體", serif;
+}
