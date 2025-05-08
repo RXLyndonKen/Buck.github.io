@@ -2,7 +2,6 @@
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <h1 align="center">歡迎來到RXLyndonKen 的 GitHub 👋</h1>
 
 <p align="center">
