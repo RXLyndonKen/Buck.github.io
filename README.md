@@ -40,7 +40,7 @@
 
 ## 📫 聯絡我 (Contact)
 
-[![GitHub followers](https://img.shields.io/github/followers/RXLyndonKen?label=Follow&style=social)](https://github.com/ken20)  
+[![GitHub followers](https://img.shields.io/github/followers/RXLyndonKen?label=Follow&style=social)](https://github.com/RXLyndonKen)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/你的連結)  
 
 ---
