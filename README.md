@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
-<h1 align="center">歡迎來到RXLyndonKen 的 GitHub 👋</h1>
+<h1 align="center">歡迎來到Buck的GitHub 👋</h1>
 
 <p align="center">
   <strong>Python 資料科學 & Discord Bot 開發者</strong><br/>
@@ -12,10 +12,10 @@
 ---
 
 ## 👨‍💻 關於我 (About Me)
+
 ### 👨‍🎓 學歷（Education）
 - 現就讀 **國立聯合大學** 電子工程學系  
 - 雙主修 **國立聯合大學** 資訊工程學系  
-- 熱衷於 **機器學習 Machine Learning** 及 **自然語言處理 NLP**
 
 ---
 
