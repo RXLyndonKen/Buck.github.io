@@ -36,9 +36,6 @@
   - 使用 Python + YouTube Data API v3  
   - 自動擷取、斷詞、摘要、語言比例統計  
 
-- **circular-travel-backpack**  
-  - Discord Bot 任務系統  
-
 ---
 
 ## 📫 聯絡我 (Contact)
@@ -53,7 +50,10 @@
 <details>
   <summary>🌟 更多動態</summary>
   
-  - 🔭 正在研究：**Time Series Analysis**  
+  - 🔭 正在研究：**Microelectronic**  
   - 📖 最近閱讀：《Python Data Science Handbook》  
-  - 🎮 最愛遊戲：Mine­craft、神魔之塔  
+  - <summary>📱 手機遊戲：</summary>
+  
+  - <summary>🖥️ 電腦遊戲：</summary>
+
 </details>
