@@ -44,7 +44,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-buck_412-E4405F?logo=instagram&logoColor=white)](https://instagram.com/buck_412) | 
 [![Line](https://img.shields.io/badge/Line-林帛彥-00C300?logo=line&logoColor=white)](https://line.me/R/ti/p/%40kenfromthefrog) | 
 [![Discord](https://img.shields.io/badge/Discord-RXLyndonKen%233751-7289DA?logo=discord&logoColor=white)](https://discord.com/users/rxlyndonken#3751) |
-[![Call Me](https://img.shields.io/badge/Call-%2B886900230450-blue?style=flat-square&logo=phone)](tel:+886900230450)
+[![Call Me](https://img.shields.io/badge/Call-%2B886900230450-blue?style=flat-square&logo=phone)](tel:+886900230450) |
+[![Gmail](https://img.shields.io/badge/Gmail-ken205412@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ken205412@gmail.com)
 
 ---
 
