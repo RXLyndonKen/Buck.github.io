@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
-<h1 align="center">歡迎來到Buck的GitHub 👋</h1>
+<h1 align="center">歡迎來到RXLyndonKen 的 GitHub 👋</h1>
 
 <p align="center">
   <strong>Python 資料科學 & Discord Bot 開發者</strong><br/>
@@ -12,10 +12,13 @@
 ---
 
 ## 👨‍💻 關於我 (About Me)
-
-### 👨‍🎓 學歷（Education）
+### -👨‍🎓 學歷（Education）
 - 現就讀 **國立聯合大學** 電子工程學系  
-- 雙主修 **國立聯合大學** 資訊工程學系  
+- 雙主修 **國立聯合大學** 資訊工程學系
+
+### - 🎯未來發展（Goals）
+- 資訊領域 | **機器學習 Machine Learning**、**人工智慧物聯網 AIOT**
+- 電子領域 | **超大型積體電路設計 VLSI Design**
 
 ---
 
@@ -42,13 +45,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/RXLyndonKen?label=Follow&style=social)](https://github.com/RXLyndonKen) | 
 [![Instagram](https://img.shields.io/badge/Instagram-buck_412-E4405F?logo=instagram&logoColor=white)](https://instagram.com/buck_412) | 
-[![Line](https://img.shields.io/badge/Line-林帛彥-00C300?logo=line&logoColor=white)](https://line.me/ti/p/EPO19FRGa0) | 
-[![Discord](https://img.shields.io/badge/Discord-RXLyndonKen%233751-7289DA?logo=discord&logoColor=white)](https://discord.com/users/rxlydonken)
+[![Line](https://img.shields.io/badge/Line-林帛彥-00C300?logo=line&logoColor=white)](https://line.me/R/ti/p/%40kenfromthefrog) | 
+[![Discord](https://img.shields.io/badge/Discord-RXLyndonKen%233751-7289DA?logo=discord&logoColor=white)](https://discord.com/users/rxlyndonken#3751)
 
 ---
 
 <details>
-  <summary>🌟 更多動態</summary>  
+  <summary>🌟 更多動態</summary>
   
   - 🔭 正在研究：**Time Series Analysis**  
   - 📖 最近閱讀：《Python Data Science Handbook》  
