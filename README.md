@@ -52,8 +52,10 @@
   
   - 🔭 正在研究：**Microelectronic**  
   - 📖 最近閱讀：《Python Data Science Handbook》  
-  - <summary>📱 手機遊戲：</summary>
-  
-  - <summary>🖥️ 電腦遊戲：</summary>
+  - <summary>📱 手機遊戲：</summary>  
+    - 神魔之塔 *Tower of Savior* ｜ID:856492954
+    - 劍與遠征 *AFK Arena* | ID:53462109
+  - <summary>🖥️ 電腦遊戲：</summary>  
+    - 特戰英豪 *Valorant* | ID:一睡就是七天#0412 
 
 </details>
