@@ -48,7 +48,7 @@
 ---
 
 <details>
-  <summary>🌟 更多動態</summary>
+  <summary>🌟 更多動態</summary>  
   
   - 🔭 正在研究：**Time Series Analysis**  
   - 📖 最近閱讀：《Python Data Science Handbook》  
